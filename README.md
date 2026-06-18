@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Sameesha
 
-<!--
-**SamPasanya/SamPasanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital space. I am a software engineering student passionate about creating clean, minimalist, and beautifully designed web applications. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| Frontend | HTML5, CSS3, JavaScript, React, Next.js |
+| Tools | Git, GitHub, VS Code, Vercel |
+| Design Vibe | Minimalist Layouts, Pastel Palettes, Clean Grids |
+
+---
+
+### Active Work
+- Learning full-stack development and backend engineering step-by-step.
+- Exploring modern UI layouts and design systems.
+
+---
+
+### Let's Connect
+- Follow my updates right here on GitHub.
+
+---
