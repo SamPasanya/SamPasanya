@@ -1,6 +1,6 @@
 # Hi there, I'm Sameesha
 
-Welcome to my digital space. I am a software engineering student passionate about creating clean, minimalist, and beautifully designed web applications. 
+Welcome to my digital space. I am a Computer Science undergraduate passionate about creating clean, minimalist, and cool designed web applications. 
 
 ---
 
